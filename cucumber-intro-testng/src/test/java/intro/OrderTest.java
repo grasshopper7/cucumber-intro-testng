@@ -1,5 +1,5 @@
 package intro;
 
-import cucumber.api.testng.AbstractTestNGCucumberTests;
+import io.cucumber.testng.AbstractTestNGCucumberTests;
 
 public class OrderTest extends AbstractTestNGCucumberTests{}
